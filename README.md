@@ -1,6 +1,3 @@
-# image-processing-app
-A basic image processing application implemented in Python using NumPy and Pillow, without relying on built-in image processing functions.
-
 # Image Color-space Converter & Enhancer
 
 A basic image processing application written in Python, implementing fundamental image processing algorithms **from scratch** (without using OpenCV).
