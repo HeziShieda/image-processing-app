@@ -15,6 +15,12 @@ A basic image processing application written in Python, implementing fundamental
 - Pillow
 - Tkinter
 
+## Project Scope
+- Implement core image processing algorithms manually
+- Understand color space transformations and spatial filtering
+- Practice NumPy-based matrix operations
+- Build a simple GUI using Tkinter
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
